@@ -73,8 +73,8 @@
 }
 
 @font-face {
-    font-family: "ArialPixel";
-    src: url(https://github.com/Kiska-dee/vesktop/raw/refs/heads/main/VL-Gothic-Regular.ttf) format("woff2");
+    font-family: "VLGothic";
+    src: url(https://github.com/Kiska-dee/vesktop/raw/refs/heads/main/VL-Gothic-Regular.ttf) ;
     font-weight: normal;
     font-style: normal;
 }
