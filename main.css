@@ -72,7 +72,10 @@
     font-smooth: never;
 }
 
-*
+@font-face {
+    font-family: "VLGothic";
+    src: url(https://github.com/Kiska-dee/vesktop/raw/refs/heads/main/VL-Gothic-Regular.ttf);
+}
 
 @property --rounded-avatars {
     syntax: "true | false";
